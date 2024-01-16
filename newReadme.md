@@ -42,7 +42,6 @@ Prepared by group 2
     21. Business Rules
 5. Appendix
 
-
 # Revision History
 
 ## Revision History
