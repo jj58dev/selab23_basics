@@ -55,7 +55,7 @@ Prepared by group 2
 
 
 
-1. Introduction
+# 1. Introduction
 
 This project is a prototype for NITCONF, a conference website designed to facilitate the submission, review and evaluation of academic papers. The section for the Program Committee includes functionality that enables members to view the submitted papers, assign reviewers to them and decide whether to accept the papers or not . The repository encompasses the entire Program Committee section for this project. This document provides a fundamental overview of the project’s goals, highlighting the significance and utility of the software product, while also focusing on the target user base.
 
