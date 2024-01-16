@@ -15,32 +15,33 @@ Prepared by group 2
 
 
 
-1. Introduction
-    1. Purpose
-    2. Document Conventions
-    3. Intended Audience
-    4. Product Scope
-    5. References	
-2. Overall Description
-    6. Product Overview
-    7. Product Functions
-    8. User Classes and Characteristics
-    9. Operating Environment
-    10. Design and Implementation Constraints
-    11. User Documentation
-    12. Assumptions and Dependencies
-3. System Features
-    13. Login and Validation
-    14. Profile
-    15. View Reviewed Papers
-    16. View All Papers
-4. Other Nonfunctional Requirements
-    17. Performance Requirements
-    18. Safety Requirements
-    19. Security Requirements
-    20. Software Quality Attributes
-    21. Business Rules
-5. Appendix
+* [Introduction](#1-introduction)
+  * 1.1 [Purpose](#11-purpose)
+  * 1.2 [Document Conventions](#12-document-conventions)
+  * 1.3 [Intended Audience](#13-intended-audience)
+  * 1.4 [Product Scope](#14-product-scope)
+  * 1.5 [References](#15-references)
+* [Overall Description](#overall-description)
+  * 2.1 [Product Overview](#21-product-overview)
+  * 2.2 [Product Functions](#22-product-functions)
+  * 2.3 [User Classes and Characteristics](#23-user-classes-and-characteristics)
+  * 2.4 [Operating Environment](#24-operating-environment)
+  * 2.5 [Design and Implementation Constraints](#25-design-and-implementation-constraints)
+  * 2.6 [User Documentation](#26-user-documentation)
+  * 2.7 [Assumptions and Dependencies](#27-assumptions-and-dependencies)
+* [System Features](#system-features)
+  * 3.1 [Login and Validation](#31-login-and-validation)
+  * 3.2 [Profile](#32-profile)
+  * 3.3 [View Reviewed Papers](#33-view-reviewed-papers)
+  * 3.4 [View All Papers](#34-view-all-papers)
+* [Other Nonfunctional Requirements](#other-nonfunctional-requirements)
+  * 4.1 [Performance Requirements](#41-performance-requirements)
+  * 4.2 [Safety Requirements](#42-safety-requirements)
+  * 4.3 [Security Requirements](#43-security-requirements)
+  * 4.4 [Software Quality Attributes](#44-software-quality-attributes)
+  * 4.5 [Business Rules](#45-business-rules)
+* [Appendix](#appendix)
+
 
 # Revision History
 
